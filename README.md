@@ -1,2 +1,3 @@
 # Excel-powerbi-mini-project-D36
-This is my mini project based on fifa 2021
+This is my mini project based on **fifa 2021**.
+This contain **Excel** and **powerbi** tool
